@@ -1,3 +1,9 @@
+nav {
+  font-family: var(--font-family-nav);
+  font-weight: var(--nav-font-weight);
+  font-size: var(--font-size-s);
+}
+
 .i         { font-style: italic; }
 .fs-normal { font-style: normal; }
 
