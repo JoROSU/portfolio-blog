@@ -51,6 +51,13 @@
 .order-8 { order: 8; }
 .order-last { order: 99999; }
 
+.flex-1 {
+  flex: 1 0 0;
+}
+.flex-4 {
+  flex: 4 0 0;
+}
+
 @media (--breakpoint-not-small) {
   .flex-ns { display: flex; }
   .inline-flex-ns { display: inline-flex; }

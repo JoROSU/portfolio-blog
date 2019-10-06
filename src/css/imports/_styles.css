@@ -4,12 +4,16 @@
 
 /* Used in the navbar */
 .divider-grey {
-  box-shadow: inset 0 -4px 0 var(--grey-1);
+  /* box-shadow: inset 0 -4px 0 var(--grey-1); */
   /* Link hover states */
   & a {
     transition: var(--hover-transition);
   }
+  & ul:hover{
+    color: var(--grey-3);
+  }
   & ul a:hover, & ul a:focus {
-    box-shadow: inset 0 -4px 0 var(--primary);
+    color: var(--black);
+    font-weight: 300;
   }
 }
