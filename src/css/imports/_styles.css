@@ -15,5 +15,9 @@
   & ul a:hover, & ul a:focus {
     color: var(--black);
     font-weight: 300;
+    opacity:0.3;
   }
+}
+a:hover {
+  opacity:0.3;
 }

@@ -26,6 +26,7 @@
 	--bold-font-weight: 700;
 
 	/* Sizing */
+	--spacing-negative-extra-large: -4rem;
 	--spacing-none: 0;
 	--spacing-extra-small: .25rem;
 	--spacing-small: .5rem;

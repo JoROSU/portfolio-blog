@@ -8,6 +8,7 @@
   .ttl-ns { text-transform: lowercase; }
   .ttu-ns { text-transform: uppercase; }
   .ttn-ns { text-transform: none; }
+
 }
 
 @media (--breakpoint-medium) {
@@ -22,4 +23,10 @@
   .ttl-l { text-transform: lowercase; }
   .ttu-l { text-transform: uppercase; }
   .ttn-l { text-transform: none; }
+  .tvm-rl-l { 
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
 }
+
+
