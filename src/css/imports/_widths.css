@@ -35,7 +35,7 @@
   .w-15-ns { width:  15%; }
   .w-25-ns { width:  25%; }
   .w-30-ns { width:  30%; }
-  .w-33-ns { width:  33%; }
+  .w-33-ns { width:  calc(100% / 3); }
   .w-34-ns { width:  34%; }
   .w-40-ns { width:  40%; }
   .w-50-ns { width:  50%; }
