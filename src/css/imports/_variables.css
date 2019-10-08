@@ -12,7 +12,7 @@
 
 	/* Typography */
 	--font-family-header: 'Oswald';
-	--font-family: 'Proxima Nova Black';
+	--font-family: 'Noto Serif SC', serif;
 	/* Display, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; */
 	--font-family-nav: 'Oswald';
 	--line-height: 1.5;

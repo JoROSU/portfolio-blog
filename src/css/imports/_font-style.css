@@ -1,10 +1,17 @@
 nav {
-  font-family: var(--font-family-nav);
+  /* font-family: var(--font-family-nav); */
+  font-family: 'Oswald';
   font-weight: var(--nav-font-weight);
   font-size: var(--font-size);
 }
 h1 {
   font-family: var(--font-family-header);
+  
+}
+
+h2 {
+  font-family: var(--font-family-header);
+
 }
 
 h3 {
@@ -33,6 +40,4 @@ h4 {
   .fs-normal-l     { font-style: normal; }
 }
 
-.bg-title-m{
-  
-}
+
