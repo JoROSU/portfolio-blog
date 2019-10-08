@@ -31,3 +31,26 @@
     clip: rect(1px, 1px, 1px, 1px);
   }
 }
+
+
+@media (min-width: 48em) {
+
+  .toggle {
+      display: none;
+    }
+
+  nav > ul {
+    display: none;
+  }
+}
+
+@media (max-width: 48em) {
+  .toggle {
+    background: seagreen;
+    color: white;
+  }
+  nav > ul {
+    display: block;
+  }
+}
+
