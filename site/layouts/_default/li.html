@@ -1,7 +1,7 @@
 <a href="{{ .RelPermalink }}" class="no-underline bg-white mv3 db raise w-100">
-	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100"/>{{ end }}
-	<h2 class="f3 pa3 lh-title mb1">{{ .Title }}</h2>
+	{{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="w-100 mb2"/>{{ end }}
+	<h2 class="f3 pv1 lh-title mh3">{{ .Title }}</h2>
 	<!-- <p class="mid-gray pa1 lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
-	<p class="pa3 mb0">{{ .Description }}</p>
-	<p class="pa3 link b dib black mb0">Read more →</p>
+	<p class="pv1 mb0 mh3">{{ .Description }}</p>
+	<p class="pv1 link b dib black mh3 mb0">Read more →</p>
 </a>
