@@ -40,4 +40,6 @@ h4 {
   .fs-normal-l     { font-style: normal; }
 }
 
-
+.fh{
+  font-family: var(--font-family-header);
+}
