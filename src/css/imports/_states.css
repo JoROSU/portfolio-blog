@@ -5,7 +5,9 @@ input:focus, textarea:focus, a:focus, button:focus {
   opacity:0.3;
   outline: 0!important;
 }
-
+.nav-t { 
+  transition: var(--nav-transition);
+}
 .raise {
   transition: var(--hover-transition);
   transform: translateY(0) translateZ(0);

@@ -52,6 +52,7 @@
   background-color: var(--off-white);
 }
 
+
 .bg-grey-1 {
   background-color: var(--grey-1);
 }
@@ -72,9 +73,10 @@
   background-color: var(--black);
 }
 
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
-  & :first-child {
+  &:first-child {
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
