@@ -47,28 +47,6 @@
 
 		</div>
 	</div>
-	<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
-	<script>
-	$(function(){
-	$('.nav__icon').on('click', function() {
-		$(this).toggleClass('active');
-		$('nav ul').slideToggle();
-	});
-
-	$(window).on('load resize',function(){
-		var w = $(window).width();
-		var h = $(window).height();
-		var x = 640;
-		if (w >= x) {
-			$('nav ul').css({ display: 'flex',height: 'auto' });
-		}else {
-			$('nav ul').css({ display: 'none',height: h + 'px'});
-		}
-	});
-});</script>
 </footer>
 
 
