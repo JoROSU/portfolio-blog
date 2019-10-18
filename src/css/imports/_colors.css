@@ -48,6 +48,9 @@
   background-color: var(--white);
 }
 
+.bg-white-02 {
+  background-color: var(--white-02);
+}
 .bg-off-white {
   background-color: var(--off-white);
 }

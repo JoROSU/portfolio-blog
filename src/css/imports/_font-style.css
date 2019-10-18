@@ -1,6 +1,6 @@
 nav {
   /* font-family: var(--font-family-nav); */
-  font-family: 'Oswald';
+  font-family: var(--font-family-header);
   font-weight: var(--nav-font-weight);
   font-size: var(--font-size);
 }
@@ -15,11 +15,16 @@ h2 {
 }
 
 h3 {
-  font-family: 'Dancing Script', cursive;
+  font-family: var(--font-family-header);
+  font-weight: var(--nav-font-weight);
+  font-size: var(--font-size);
+  letter-spacing: 0.75px;
 }
 
 h4 {
-  font-family: 'Dancing Script', cursive;
+  font-family: var(--font-family-header);
+  font-weight: var(--nav-font-weight);
+  font-size: var(--font-size);
 }
 
 .i         { font-style: italic; }
@@ -28,6 +33,9 @@ h4 {
 @media (--breakpoint-not-small) {
   .i-ns       { font-style: italic; }
   .fs-normal-ns     { font-style: normal; }
+  .pf-1{
+    font-size:16px;
+  }
 }
 
 @media (--breakpoint-medium) {

@@ -3,11 +3,27 @@
 .absolute  { position: absolute; }
 .fixed  { position: fixed; }
 
+.transformed{
+  margin-right: -25px;
+  right: 190px;
+  z-index: 5555;
+  top: 70px;
+}
+
 @media (--breakpoint-not-small) {
-  .static-ns { position: static; }
-  .relative-ns  { position: relative; }
-  .absolute-ns  { position: absolute; }
-  .fixed-ns  { position: fixed; }
+  .transformed-ns{
+    right: 60px;
+    z-index: 5;
+    top: 30px;
+  }
+  .absolute-ns { position: absolute; right:0; }
+}
+
+@media (--breakpoint-not-small) {
+  .static-m { position: static; }
+  .relative-m  { position: relative; }
+  .absolute-m  { position: absolute; }
+  .fixed-m  { position: fixed; }
 }
 
 @media (--breakpoint-medium) {
@@ -23,3 +39,9 @@
   .absolute-l  { position: absolute; }
   .fixed-l  { position: fixed; }
 }
+
+.top-3{
+  top:3rem;
+}
+
+
