@@ -3,12 +3,11 @@
     <div class="db mb3">
       <div class="mw7 relative mb3">
           <div class="flex-ns mhn2-l">
-            <div class="w-60-ns tc bg-white pa4">
-              <img src="img/default/jumbotron-slogan.jpg" alt="Tryanglist" class="w-100">
-            </div>
+            
             <div class="w-40-ns mv5-ns pa4 tc tl-ns flex flex-column justify-center">
-                <h1 class="f2 f1-l b di lh-title mb3 mw6 ">
-                    {{.title}}
+                <h1 class="f2 f1-l b di-ns lh-title mb3 mw6 dn">
+                    <!-- {{.title}} -->
+                    <img src="/img/default/logo.svg" alt="Tryanglist logo" class="w4 center br0"/>
                 </h1>
                 <div class="mw7 pv4 relative">
                   {{ if .subtitle }}
@@ -18,6 +17,9 @@
                   {{ end }}
                 </div>
             </div>
+            <div class="w-60-ns tc bg-white pa4">
+                <img src="img/default/jumbotron-slogan.jpg" alt="Tryanglist" class="w-100">
+              </div>
           </div>
       </div>
     </div>
