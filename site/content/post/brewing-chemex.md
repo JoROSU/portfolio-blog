@@ -4,7 +4,7 @@ date: 2017-01-04T15:04:10.000Z
 description: |-
   The scary/exciting realisation happens when we start applying this logic to
   almost every industry.
-image: /img/1-1.jpg
+image: /img/gobigorgohome.jpg
 ---
 It was 9 am and my dad and me were sitting in a quiet Bosnian café, everybody
 
