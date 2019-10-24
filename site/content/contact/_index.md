@@ -4,7 +4,7 @@ subtitle: "Info"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Contact
-    text: "Vanja.Ljevar1@nottingham.ac.uk"
+    text: "info@tryanglist.com"
   - heading: Location
     text: "NOTTINGHAM, ENGLAND, UK"
 ---
