@@ -1,29 +1,105 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: The_Difference
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /img/4-4.jpg
+  The answer to my question came to me years later as I was working on a
+  branding project.
+image: /img/1-1.jpg
 ---
+Years ago I was working in marketing team for a film distributor.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+When I look back at that time, I don’t remember what I did, I don’t remember how long I stayed, in fact I don’t remember anything in particular, but I do remember – her.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Actually, it would be an understatement to say - this was the most memorable person I have ever met.
 
-## A little history
+Seemingly there was nothing special about her and yet - everything about her was special.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+When she spoke to you she would make you feel like you are the most interesting person in the world and yet she always had this aura of exclusivity.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Everything about her was cool - the way she would do a mini dance whilst sitting at her desk and listening to strange music like nobody was watching; the way she was holding a cigarette; even the way she expressed herself unapologetically.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+I never knew what her job title was, but between her witty emails and adorable laugher, no one even bothered to ask.
 
-## What you need to know before trying
+_After all she would connect us to many important people._
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+It seemed that her charm had a radius way bigger than the boundaries of our little office.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+We were all was madly in love with her.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+_But we were also mad._
 
+None of my co-workers could understand what was so special about her - what made her shine.
+
+I was no exception. But as I always wanting to dissect things and measure, I wanted to break it all down and understand what was it exactly what makes a difference between her and me.
+
+After all, she was not too different to me: similar age and height, similar sense of humour, coming from the same country and I guess I could listen to some strange music in the office - it’s just no one ever cared if I did.
+
+
+
+The answer to my question came to me years later as I was working on a branding project.
+
+I finally get it.
+
+She was not different to me.
+
+She was more than different.
+
+She was distinct.
+
+If she was a brand she would be a distinctive brand and brands like this don’t ever measure up on the same criteria.
+
+They don’t follow the same rules as anyone else.
+
+They don’t even follow different rules.
+
+They make their own rules and have their own playground.
+
+
+
+## **Brands can be different in my ways: some brands have a blue logo, some have a pink one.**
+
+Then there are some brands that don’t have a logo at all - like Marlboro that used only their colours on Ferrari Formula One cars.
+
+Simply seeing the red and white combination of colours triggers the cigarette cravings in the brains of smokers.
+
+Therefore, some brands are simply distinctive and compete in their own competitive-less marketplace (and undoubtedly - enjoy all the benefits from that!).
+
+
+
+Being distinctive is not necessarily easy; you need to be lucky to stumble across an idea or work hard to create something new.
+
+But the good news is that this is not the only way distinctiveness is made.
+
+
+
+I will never forget the interview Tim Ferris made with Bill Watersone, the author of Kelvin and Hobbes.
+
+Bill said he always wanted to be a painter, but his drawing skills were not good enough.
+
+He always wanted to be a comedian, but his comedy was not good enough.
+
+So he combined the two - drawing and comedy and became the world's most famous - comic strip cartoonist.
+
+He created his own distinctiveness through a combination of two more-than-average skills.
+
+Combining things that seemingly have no connection at all is not a new concept either. 
+
+In fact, check out the way some people combine poetry and maths:
+
+https://www.theguardian.com/books/booksblog/2009/feb/04/maths-poetry-pi-fibonacci
+
+
+
+This was what my colleague did as well.
+
+She was not the most Bosnian person in a foreign country, she was not the coolest, funniest or the most beautiful woman. 
+
+But she was a combination of many characteristics that ultimately made the synergy.
+
+
+
+So there she was - shining whilst enjoying her 100% distinctiveness in a marketplace that was completely her own.
+
+
+
+And being memorable because of it.
