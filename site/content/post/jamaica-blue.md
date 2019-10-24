@@ -2,8 +2,8 @@
 title: The_Difference
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  The answer to my question came to me years later as I was working on a
+  branding project.
 image: /img/1-1.jpg
 ---
 Years ago I was working in marketing team for a film distributor.
