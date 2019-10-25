@@ -23,14 +23,14 @@ input, textarea {
   position: relative;
   transition: var(--hover-transition);
   z-index: 2;
-  &:focus {
+  /* &:focus {
     background-color: var(--white);
-  }
-  &:focus + label {
+  } */
+  /* &:focus + label {
     opacity: 1;
     pointer-events: auto;
     transform: translateY(-120%);
-  }
+  } */
 }
 
 ::-webkit-input-placeholder {

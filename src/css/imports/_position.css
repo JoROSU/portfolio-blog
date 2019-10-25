@@ -9,8 +9,14 @@
   z-index: 5555;
   top: 70px;
 }
-
+.nav-small{
+  position: absolute;
+  top: 5px;
+  left: 35%;
+  z-index: 222222;
+}
 @media (--breakpoint-not-small) {
+
   .transformed-ns{
     right: 60px;
     z-index: 5;
@@ -40,8 +46,19 @@
   .fixed-l  { position: fixed; }
 }
 
+
+.top-1{
+  top:1rem;
+}
+
 .top-3{
   top:3rem;
+}
+.top-7{
+  top:7rem;
+}
+.left-6{
+  left:6rem;
 }
 
 
