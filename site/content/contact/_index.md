@@ -3,7 +3,7 @@ title: "Contact"
 subtitle: "Info"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Contact
+  - heading: Email
     text: "info@tryanglist.com"
   - heading: Location
     text: "NOTTINGHAM, ENGLAND, UK"
