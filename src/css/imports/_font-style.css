@@ -51,3 +51,6 @@ h4 {
 .fh{
   font-family: var(--font-family-header);
 }
+p{
+  max-width: auto;
+}
