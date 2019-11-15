@@ -1,6 +1,12 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "About"
+image: /img/default/i-about-home.jpg
+logo: "/img/logo.svg"
+intro:
+    heading: "ABOUT"
+    title: "Vanja Ljevar"
+    subtitle: "Vanja Ljevar"
+    text: "Content creator at Tryanglist. Data scientist. Brand storyteller. Disrespectful of status quo. Dedicated doer. INTJ. Pizza enthusiast."
 values:
   - heading: "Shade-grown coffee"
     text: >
