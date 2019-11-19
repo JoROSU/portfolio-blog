@@ -12,13 +12,13 @@
 .nav-small{
   position: absolute;
   top: 5px;
-  left: 35%;
+  left: 25px;
   z-index: 222222;
 }
 @media (--breakpoint-not-small) {
 
   .transformed-ns{
-    right: 60px;
+    right: 50px;
     z-index: 5;
     top: 30px;
   }
