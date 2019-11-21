@@ -1,5 +1,6 @@
 :root {
-	/* Colors */
+    /* Colors */
+    --brand: rgba(139, 0, 0, 1);
 	--primary: rgba(139, 0, 0, 0.75);
 	--highlight: rgba(139, 0, 0, 0.25);
 	--white: rgba(255, 255, 255, 1);

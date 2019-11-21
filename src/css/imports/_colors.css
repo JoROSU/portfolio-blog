@@ -76,6 +76,9 @@
   background-color: var(--black);
 }
 
+.bg-primary {
+  background-color: var(--brand);
+}
 
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
