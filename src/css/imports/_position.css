@@ -18,9 +18,9 @@
 @media (--breakpoint-not-small) {
 
   .transformed-ns{
-    right: 50px;
+    right: 55px;
     z-index: 5;
-    top: 30px;
+    top: 15px;
   }
   .absolute-ns { position: absolute; right:0; }
 }

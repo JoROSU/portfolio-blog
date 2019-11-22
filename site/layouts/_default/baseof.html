@@ -12,7 +12,25 @@
     {{ $script := .Site.Data.webpack.main }}
     {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
-      
+    
+      <script>
+      function wrapString(str) {
+  var output = [];
+  str.split('').forEach(function(letter) {
+    var wrapper = document.createElement('span');
+    wrapper.dataset.content = wrapper.innerHTML = letter;
+    output.push(wrapper.outerHTML);
+  });
+
+  return output.join('');
+}
+
+window.onload = function() {
+    var el  = document.querySelector('.split-color'),
+        txt = el.innerHTML;
+    
+      el.innerHTML = wrapString(txt);
+  }</script>
     {{ end }}
     
   </body>

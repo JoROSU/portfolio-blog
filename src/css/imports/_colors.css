@@ -87,3 +87,35 @@
   }
 }
 
+
+.split-color-ns > span {
+  white-space: pre-line;
+  position: relative;
+  color: white;
+}
+
+.split-color-ns > span:before {
+  content: attr(data-content);
+  pointer-events: none;
+  position: absolute;
+  overflow: hidden;
+  color: #8b0000;
+  width: 55%;
+  z-index: 1;
+}
+/* .split-color > span {
+  white-space: pre-line;
+  position: relative;
+  color:#0f0f0f;
+}
+
+.split-color > span:before {
+  content: attr(data-content);
+  pointer-events: none;
+  position: absolute;
+  overflow: hidden;
+  color: #0f0f0f;
+  width: 55%;
+  z-index: 1;
+} */
+

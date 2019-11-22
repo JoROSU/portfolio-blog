@@ -11,9 +11,9 @@ intro:
     subtitle: "Vanja Ljevar"
     text: "Content creator at Tryanglist. Data scientist. Brand storyteller. Disrespectful of status quo. Dedicated doer. INTJ. Pizza enthusiast."
 info:
-    heading: "INFO"
-    title: "Portfolio"
-    subtitle: "Tryanglist"
+    heading: "PORTFOLIO"
+    title: "Tryanglist"
+    subtitle: "Create real momentum for transformation"
     text: "Across my career, my main goal was to find the right angles that help us understand what are the things that  we should be measuring and to create insights so that a brand can relate to customers on a better, more personalised level."
 products:
     - image: img/illustrations-coffee.svg
