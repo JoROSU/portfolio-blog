@@ -81,7 +81,6 @@ ul {
     display:none;
   }
  nav {
-      position: relative;
       z-index: 999;
       ul {
           background-color: var(--black-01);
@@ -92,6 +91,7 @@ ul {
           position: absolute;
           top: 0;
           left: 0px;
+          bottom:0;
           width: 100%;
           z-index: 980;
       }
