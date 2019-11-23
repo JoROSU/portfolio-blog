@@ -18,7 +18,7 @@
 @media (--breakpoint-not-small) {
 
   .transformed-ns{
-    right: 55px;
+    right: 35px;
     z-index: 5;
     top: 15px;
   }
