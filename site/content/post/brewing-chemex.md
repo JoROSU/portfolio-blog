@@ -98,8 +98,6 @@ This is potentially a reason why we can enjoy fewer (slower) dramas such as
 
 character *.
 
-
-
 Whether this is a positive or a negative thing can be left to a debate, but there is
 
 de facto less variety than there was 20 years ago.
@@ -134,8 +132,8 @@ My father closed the newspapers.
 
 It was time to go big or go home.
 
-
-
-
-
 _\*Serbian football club_
+
+\----------------------------------------------------------------------------------------------------------------
+
+Photo by Nubia Navarro (canva)
