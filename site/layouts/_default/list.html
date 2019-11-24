@@ -28,9 +28,9 @@
         </div>
     </div>
     <h2 class="f2 tc lh-title mv5">RECENT POSTS</h2>
-  <ul class="w-100 flex-ns mhn1-ns flex-wrap mb3">
+  <ul class="w-100 flex-ns mhn1-ns flex-wrap mb3 db">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-33-ns ph1-ns flex">
+          <div class="w-33-ns w-100 ph1-ns db">
             {{ .Render "li"}}
           </div>
       {{ end }}

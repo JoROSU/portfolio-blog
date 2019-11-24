@@ -40,6 +40,8 @@
 	& a {
 		color: var(--primary);
 		transition: var(--hover-transition);
+		word-break: break-all;
+
 		&:hover {
 			background-color: var(--highlight);
 			color: var(--black);

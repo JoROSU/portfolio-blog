@@ -19,3 +19,10 @@
   .word-wrap-l { word-break: break-all; }
   .word-nowrap-l { word-break: keep-all; }
 }
+
+p a {
+  word-break: break-all;
+}
+.cms a{
+  word-break: break-all;
+}
