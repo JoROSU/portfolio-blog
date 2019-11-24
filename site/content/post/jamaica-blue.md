@@ -4,7 +4,7 @@ date: 2017-01-04T15:04:10.000Z
 description: >-
   The answer to my question came to me years later as I was working on a
   branding project.
-image: /img/1-1.jpg
+image: /img/the_difference.jpg
 ---
 Years ago I was working in marketing team for a film distributor.
 
