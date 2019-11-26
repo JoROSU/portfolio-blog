@@ -28,3 +28,49 @@
   /* box-shadow: inset 0 0 0 2px var(--primary); */
   transition: var(--hover-transition);
 }
+
+
+#button {
+  display: inline-block;
+  background-color: var(--highlight);
+  width: 40px;
+  text-align: center;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#button::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.5em;
+  line-height: 40px;
+  color: var(--primary);
+}
+#button:hover {
+  cursor: pointer;
+  background-color:var(--grey-3);
+}
+#button:active {
+  background-color:var(--grey-3);
+}
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Styles for the content section */
+
+
+@media (min-width: 640px) {
+
+  #button {
+    margin: 30px;
+  }
+}

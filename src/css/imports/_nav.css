@@ -77,10 +77,11 @@ ul {
 }
 
 @media only screen and (max-width: 640px) {
+
+ nav {
   .flex{
     display:none;
   }
- nav {
       z-index: 999;
       ul {
           background-color: var(--black-01);
