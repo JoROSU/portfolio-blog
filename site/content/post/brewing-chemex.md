@@ -134,6 +134,6 @@ It was time to go big or go home.
 
 _\*Serbian football club_
 
-\----------------------------------------------------------------------------------------------------------------
+\-
 
 Photo by Nubia Navarro (canva)
