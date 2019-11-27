@@ -45,13 +45,13 @@
   z-index: 1000;
 }
 #button::after {
-  content: "\f077";
+  content: "\2191";
   font-family: FontAwesome;
   font-weight: normal;
   font-style: normal;
   font-size: 1.5em;
   line-height: 40px;
-  color: var(--primary);
+  color: var(--grey-2);
 }
 #button:hover {
   cursor: pointer;

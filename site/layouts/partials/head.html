@@ -39,28 +39,28 @@
   {{ if .IsHome }}
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
-  <script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
-  <script>
-	function wrapString(str) {
-var output = [];
-str.split('').forEach(function(letter) {
-  var wrapper = document.createElement('span');
-  wrapper.dataset.content = wrapper.innerHTML = letter;
-  output.push(wrapper.outerHTML);
-});
+	<script
+		src="https://code.jquery.com/jquery-3.4.1.min.js"
+		integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+		crossorigin="anonymous"></script>
+	<script>
+		function wrapString(str) {
+			var output = [];
+			str.split('').forEach(function(letter) {
+			var wrapper = document.createElement('span');
+			wrapper.dataset.content = wrapper.innerHTML = letter;
+			output.push(wrapper.outerHTML);
+			});	
+			return output.join('');
+		}
 
-return output.join('');
-}
-
-window.onload = function() {
-  var el  = document.querySelector('.split-color'),
-	  txt = el.innerHTML;
-  
-	el.innerHTML = wrapString(txt);
-}</script>
+		window.onload = function() {
+			var el  = document.querySelector('.split-color'),
+			txt = el.innerHTML;
+		
+			el.innerHTML = wrapString(txt);
+		}
+	</script>
 	<script>
 		// $(window).on('load resize',function(){
 		// 		var w = $(window).width();
