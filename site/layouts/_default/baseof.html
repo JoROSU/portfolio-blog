@@ -31,7 +31,16 @@
         $('html, body').animate({scrollTop:0}, '500');
       });
 
+
+      $( document ).ready(function() {
+			$('.nav__icon').on('click', function() {
+				$(this).toggleClass('active');
+				$('nav ul').slideToggle();
+				$('nav ul').css({ display: 'flex', height: 'auto' });
+			});
+		});
   </script>
+
     
   </body>
 </html>
